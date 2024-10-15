@@ -1,0 +1,14 @@
+@media(max-width:991px){
+    
+    .box .col-lg-3 .carousel{
+        margin-top: 30px;
+    }
+    
+}
+
+@media(max-width:767px){
+    .footer__top .text{
+        margin-bottom: 15px;
+    }
+    
+}
